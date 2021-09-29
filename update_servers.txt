@@ -1,4 +1,4 @@
-# Apple | https://support.apple.com/en-us/HT210060
+# Apple - https://support.apple.com/en-us/HT210060
 ## Software updates: macOS, iOS, and tvOS
 appldnld.apple.com
 configuration.apple.com
@@ -30,7 +30,7 @@ mzstatic.com
 itunes.apple.com
 ppq.apple.com
 
-# Windows/Microsoft | https://docs.microsoft.com/en-us/mem/configmgr/core/plan-design/network/internet-endpoints | https://docs.microsoft.com/en-us/windows/privacy/manage-windows-20h2-endpoints
+# Windows/Microsoft - https://docs.microsoft.com/en-us/mem/configmgr/core/plan-design/network/internet-endpoints - https://docs.microsoft.com/en-us/windows/privacy/manage-windows-20h2-endpoints
 
 akamaiedge.net
 akamaitechnologies.com
@@ -82,7 +82,7 @@ clients5.google.com
 clients6.google.com
 play.googleapis.com
 
-# Adobe | https://helpx.adobe.com/in/enterprise/kb/network-endpoints.html | Deployment and Fulfillment Services
+# Adobe - https://helpx.adobe.com/in/enterprise/kb/network-endpoints.html - Deployment and Fulfillment Services
 ccmdls.adobe.com
 ccmdl.adobe.com
 oobesaas.adobe.com
